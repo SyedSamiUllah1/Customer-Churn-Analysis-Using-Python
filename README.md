@@ -48,42 +48,42 @@ The analysis uses the **Telco Customer Churn** dataset (`Customer Churn.csv`) �
 
 ## 📸 Screenshots
 
-### 1. Dataset Preview
+
 ![Dataset preview](screenshots/1.png)
 
-### 2. Dataset Structure & Data Types
+
 ![Dataset info](screenshots/2.png)
 
-### 3. Cleaning `TotalCharges`
+
 ![TotalCharges cleaning](screenshots/3.png)
 
-### 4. Missing Values Check
+
 ![Missing values check](screenshots/4.png)
 
-### 5. Statistical Summary
+
 ![Statistical summary](screenshots/5.png)
 
-### 6. Overall Churn Distribution
+
 ![Churn distribution](screenshots/6.png)
 
-### 7. Churn Percentage Breakdown
+
 ![Churn percentage pie chart](screenshots/7.png)
 
-### 8. Churn by Gender
+
 ![Churn by gender](screenshots/8.png)
 
-### 9. Churn by Senior Citizen Status
+
 ![Churn by senior citizen status](screenshots/9.png)
 
-### 10. Churn Percentage by Senior Citizen Status
+
 ![Churn percentage by senior citizen status](screenshots/10.png)
 
-### 11. Churn by Tenure
+
 ![Churn by tenure](screenshots/11.png)
 
 > ⚠️ Screenshot 12 is currently missing and will be added soon.
 
-### 13. Churn by Contract Type
+
 ![Churn by contract type](screenshots/13.png)
 
 ---
